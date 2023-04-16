@@ -1,2 +1,2 @@
 # arima_torch
-implementation of an ARIMA model using pytorch
+implementation of an ARIMA model using pytorch.
